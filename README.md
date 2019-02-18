@@ -14,9 +14,3 @@ go here: https://github.com/dangar202/Catopia-Early-Access/wiki/Planned-Improvem
 If you would like to report a bug, suggest a change, etc, go here:
 https://github.com/dangar202/Catopia-Early-Access/issues // Note: This is an unstable version, please tag issues for this version  with "Unstable" and "v1.6".
 (This requires you to be signed into GitHub)
-
-***
-# V 1.0.0 Released
-( 2/17/2019 )
-Change Log:
- - Inital Release.
