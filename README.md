@@ -10,6 +10,7 @@ Change Log:
 - Collision hitboxes are more crisp now. Very nice.
 - The basic UI of the inventory is setup! Press E to open it, it is not interactable at the moment.
 - New shading engine!
+- The game now looks proper when using an aspect ratio that isnt 16:9. 
 ***
 # Unstable Version (v.1.2) Released
 (Formerly v.1.6)
