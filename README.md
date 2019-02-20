@@ -1,3 +1,6 @@
+
+> Notice: Version 1.3 did not upload correctly, so it is not playable.
+
 What is an unstable release?
 
 An unstable release is a version of the game that has not been tested for bugs and therefore could cause damage to save files, game data, or other hardware and software. The game could not start, be corrupted, or just break as soon as it starts. The purpose for the release of these versions is for bug testing and for feedback on features before they are added to the main branch. This is the last branch before a new version will be committed to the main branch.
