@@ -1,7 +1,15 @@
 What is an unstable release?
 
 An unstable release is a version of the game that has not been tested for bugs and therefore could cause damage to save files, game data, or other hardware and software. The game could not start, be corrupted, or just break as soon as it starts. The purpose for the release of these versions is for bug testing and for feedback on features before they are added to the main branch. This is the last branch before a new version will be committed to the main branch.
-
+***
+# Unstable Version (v.1.3) Released
+( 2/19/2019 )
+Change Log:
+- Startup logo changed.
+- Startup background changed.
+- Collision hitboxes are more crisp now. Very nice.
+- The basic UI of the inventory is setup! Press E to open it, it is not interactable at the moment.
+- New shading engine!
 ***
 # Unstable Version (v.1.2) Released
 (Formerly v.1.6)
